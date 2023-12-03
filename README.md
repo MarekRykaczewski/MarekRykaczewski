@@ -19,6 +19,6 @@ I'm Marek, a passionate Software Engineer from Poland. 👨‍💻
 
 ### 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/marekrykaczewski/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio-blue)](YourPortfolioLink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MarekRykaczewski-blue)](https://www.linkedin.com/in/marekrykaczewski/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Portfolio-blue)](YourPortfolioLink)
 
