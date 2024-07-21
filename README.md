@@ -3,7 +3,7 @@
 I'm Marek, a passionate Software Engineer from Poland. 👨‍💻
 
 - 🔭 I’m currently working on Lift Tracker
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Java + Spring Boot
 - ⚡ Fun fact: When I'm not pushing code, you'll find me lost in a good book. Current favorite: The Stranger by Albert Camus.
 
 ### 🚀 Skills and Technologies:
